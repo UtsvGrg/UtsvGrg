@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-### Hi there! :wave:
 I'm Utsav Garg, a computer science undergraduate at IIIT-Delhi and a software enthusiast.
-
-Always open to participating in hackathons!
 
 ## Languages and Tools
 
