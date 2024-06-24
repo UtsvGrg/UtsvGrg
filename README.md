@@ -22,4 +22,4 @@ I'm Utsav Garg, a computer science undergraduate at IIIT-Delhi and a software en
 
 ## 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=utsvgrg&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityagirdhar&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=utsvgrg&theme=tokyonight&hide_border=true)<br/>
