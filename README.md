@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Utsav Garg, a computer science undergraduate at IIIT-Delhi and a software enthusiast.
+- 🌱 I’m currently working at the MIDAS Lab at IIIT Delhi.
+- 💬 Ask me about Machine Learning, Computer Vision and Natural Language Processing
+- 😛 Fun fact: Ice cream melts in summer 
 
 ## Languages and Tools
 
